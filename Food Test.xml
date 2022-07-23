@@ -1,0 +1,33 @@
+<manu>
+	<food>
+	    <name>Pizza</name>
+	    <price>$95</price>
+	     <calorie>360</calorie>
+	</food>
+    <food>
+	    <name>Hotdog</name>
+	    <price>$12</price>
+	     <calorie>380</calorie>
+	</food>
+ <food>
+	    <name>Hambuger</name>
+	    <price>$122</price>
+	     <calorie>480</calorie>
+	</food>
+
+ <food>
+	    <name>Egg Noodle</name>
+	    <price>$10</price>
+	     <calorie>280</calorie>
+	</food>
+ <food>
+	    <name>Spagettie</name>
+	    <price>$110</price>
+	     <calorie>440</calorie>
+	</food>
+ <food>
+	    <name>French Fried</name>
+	    <price>$15</price>
+	     <calorie>40</calorie>
+	</food>
+</manu>
